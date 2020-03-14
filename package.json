@@ -2,7 +2,7 @@
   "name": "threadjs-esm",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "engines": {
     "node": ">=13.2"
   },
